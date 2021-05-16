@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Real-time-chat-application/static/css/main.fa522fd5.chunk.css",
+    "main.js": "/Real-time-chat-application/static/js/main.8a37a950.chunk.js",
+    "main.js.map": "/Real-time-chat-application/static/js/main.8a37a950.chunk.js.map",
+    "runtime-main.js": "/Real-time-chat-application/static/js/runtime-main.006f1ded.js",
+    "runtime-main.js.map": "/Real-time-chat-application/static/js/runtime-main.006f1ded.js.map",
+    "static/css/2.61526bb2.chunk.css": "/Real-time-chat-application/static/css/2.61526bb2.chunk.css",
+    "static/js/2.2196f0de.chunk.js": "/Real-time-chat-application/static/js/2.2196f0de.chunk.js",
+    "static/js/2.2196f0de.chunk.js.map": "/Real-time-chat-application/static/js/2.2196f0de.chunk.js.map",
+    "index.html": "/Real-time-chat-application/index.html",
+    "static/css/2.61526bb2.chunk.css.map": "/Real-time-chat-application/static/css/2.61526bb2.chunk.css.map",
+    "static/css/main.fa522fd5.chunk.css.map": "/Real-time-chat-application/static/css/main.fa522fd5.chunk.css.map",
+    "static/js/2.2196f0de.chunk.js.LICENSE.txt": "/Real-time-chat-application/static/js/2.2196f0de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.006f1ded.js",
+    "static/css/2.61526bb2.chunk.css",
+    "static/js/2.2196f0de.chunk.js",
+    "static/css/main.fa522fd5.chunk.css",
+    "static/js/main.8a37a950.chunk.js"
+  ]
+}
